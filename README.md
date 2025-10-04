@@ -30,7 +30,7 @@ This project provides an intuitive dashboard that helps decision-makers:
 
 > *(Replace `sales_dashboard.png` with your actual image filename after uploading it to the repo)*
 
-![Sales Dashboard Preview](./sales_dashboard.png)
+![Sales Dashboard Preview](Sales Dashboard.png)
 
 ---
 
