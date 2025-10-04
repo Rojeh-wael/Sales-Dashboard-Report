@@ -28,11 +28,10 @@ This project provides an intuitive dashboard that helps decision-makers:
 
 ## 📸 Dashboard Preview
 
-> *(Replace `sales_dashboard.png` with your actual image filename after uploading it to the repo)*
 
-![Sales Dashboard Preview](Sales Dashboard.png)
+
+![Sales Dashboard Preview]Sales-Dashboard-Report
+/Sales Dashboard.png
+)
 
 ---
-
-## 📂 Project Structure
-
