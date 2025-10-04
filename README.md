@@ -30,8 +30,5 @@ This project provides an intuitive dashboard that helps decision-makers:
 
 
 
-![Sales Dashboard Preview](
-./Sales Dashboard.png
-)
+![Sales Dashboard Preview](./Sales Dashboard.png)
 
----
